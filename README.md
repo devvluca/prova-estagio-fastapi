@@ -2,6 +2,8 @@
 
 API desenvolvida para gerenciar empresas e suas obrigações acessórias. Feita com **FastAPI**, **SQLAlchemy** e **PostgreSQL**, essa aplicação permite cadastrar empresas, consultar seus dados e gerenciar as obrigações que precisam ser cumpridas.
 
+![print exemplo](screenshot.png)
+
 ## 🚀 Endpoints Disponíveis
 
 ### Empresas
